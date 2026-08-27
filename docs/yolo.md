@@ -1,11 +1,14 @@
 # YOLO
 
-Awarded for merging your own pull request without a code review.
+Awarded for merging your own pull request while a requested review is still pending.
+
+## Correction, tested live in this repo
+
+The folk criterion "merge without a code review" is incomplete. Sixteen reviewless solo merges on this account triggered nothing. Community reports converge on the real trigger: request a reviewer on the PR, then merge before they review. This PR is the test of that corrected criterion.
 
 ## Notes
 
 - One qualifying merge is enough. No tiers.
-- The badge celebrates exactly what every solo maintainer does daily anyway.
-- Requesting a review and merging before it arrives may not qualify; the clean path is to never request one.
+- Requires a collaborator on the repo to request as reviewer.
 
-Source: community-maintained criteria list (Schweinepriester/github-profile-achievements), checked 2026-08-25.
+Sources: community discussions 179153, 139184, 39281; checked 2026-08-27.
