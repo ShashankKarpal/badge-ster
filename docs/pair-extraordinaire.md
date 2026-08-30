@@ -21,3 +21,7 @@ The co-author in the trailer must be a real GitHub account. A trailer pointing a
 - Use the co-author's GitHub noreply address (ID+username@users.noreply.github.com) so the commit links to their account.
 
 Sources: community-maintained criteria list plus live test in this repo; checked 2026-08-27.
+
+## Second test: PR opened by a different account
+
+Follow-up test to confirm the badge credits the PR author too, not just the co-author: this PR is opened from a separate collaborator account, with the same `Co-authored-by` trailer pattern in the commit.
